@@ -2,7 +2,7 @@
 public class SelectionSort {
 
 	public static void main(String[] args) {
-		int[] array = {3, 102,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 42, 12, 12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11, 4, 34, 76};
+		int[] array = {3, 102, 4, 34, 76};
 		int n = array.length;
 		int count = 0;
 		for (int i=1; i<n; i++) {
