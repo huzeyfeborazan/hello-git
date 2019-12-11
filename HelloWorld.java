@@ -3,6 +3,7 @@ public class SelectionSort {
 
 	// This is main method
 	// C1
+	// C2
 	public static void main(String[] args) {
 		int[] array = {3, 102, 4, 34, 76, 45};
 		int n = array.length;
