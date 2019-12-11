@@ -1,6 +1,7 @@
 
 public class SelectionSort {
 
+	// Merge 2
 	// This is main method
 	// C1
 	// C2
