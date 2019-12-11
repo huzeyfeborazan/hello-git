@@ -5,6 +5,7 @@ public class SelectionSort {
 	// C1
 	// C2
 	// Merge 1
+	// Merge 3
 	public static void main(String[] args) {
 		int[] array = {3, 102, 4, 34, 76, 45};
 		int n = array.length;
