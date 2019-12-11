@@ -2,7 +2,7 @@
 public class SelectionSort {
 
 	// Merge 2
-	// This is main method - Develop
+	// This is main method - My Branch
 	// C1
 	// C2
 	// Merge 1
